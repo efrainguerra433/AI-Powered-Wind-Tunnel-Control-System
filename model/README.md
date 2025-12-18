@@ -1,4 +1,4 @@
-# AI Models
+# AI Model
 
 ## Overview
 
